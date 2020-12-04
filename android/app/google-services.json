@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "183105404767",
+    "project_id": "contact-2b248",
+    "storage_bucket": "contact-2b248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183105404767:android:7c462780a8bb8a0e4c80ea",
+        "android_client_info": {
+          "package_name": "com.test.contactReminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183105404767-3ja5t64g14qjej0p0hpii221idu9914n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6tTWFGzqQK2U2t786V-RpSrlLB8iijLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183105404767-3ja5t64g14qjej0p0hpii221idu9914n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183105404767-cru9lf3jn5lplnnnplj3nqjlh5ua69j0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.contactReminders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
